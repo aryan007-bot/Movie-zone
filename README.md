@@ -9,7 +9,7 @@ Welcome to **Recipy** – a user-friendly application that helps you discover, s
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)![Screenshot 2024-11-10 093306](https://github.com/user-attachments/assets/5098a102-8e68-4de1-b8da-db0584e391bb)
+- [Contributing](#contributing)
 
 - [License](#license)
 - [Contact](#contact)
